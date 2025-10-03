@@ -24,4 +24,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width=60 height=60 title="sqlalchemy">
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark)
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andrei-afk-cuber&theme=github_dark" alt="GitHub Stats">
+</div>
