@@ -1,15 +1,17 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Andrei</h1>
-    <h3> Future Backend developer form Belarus
+    <h3>Future Backend developer from Belarus</h3>
 </div>
 
-<a href="[linkedin-url](https://www.linkedin.com/in/andrei-lyakh-971772388/)" align="center">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<div align="center">
+    <a href="https://www.linkedin.com/in/andrei-lyakh-971772388/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+</div>
 
 ### About me
 - I'm currently a third-year student at BNTU. My major is **software engineering**.
-- I'm regulary learn something new.
+- I'm regularly learning something new.
 - I hope to find a good job and change the world for the better.
 - I know English at an intermediate level.
 
@@ -23,5 +25,5 @@
 </div>
 
 <div align="center">
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark)
+    ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark)
 </div>
