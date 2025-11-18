@@ -5,7 +5,7 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/andrei-lyakh-971772388/">
-        <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white]" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </div>
 
