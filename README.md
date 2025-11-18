@@ -5,7 +5,7 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/andrei-lyakh-971772388/">
-        <img src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png" width=100 height=100>
+        <img src="https://cdn-icons-png.flaticon.com/512/2496/2496097.png" width=50 height=50>
     </a>
 </div>
 
